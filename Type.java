@@ -1,3 +1,3 @@
 public enum Type {
-    MAGICAL, PHYSICAL;
+    MAGICAL, PHYSICAL, NULL;
 }
